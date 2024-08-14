@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**morena0433/morena0433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Morena.0433
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br/loginForm)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo essse espaço para minha organizaçaõ e compartilhamento dos meus proetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo📫
+
+  ashelle.oliveira@escola.pr.gov.br
+
+  @morena.0433
+
+![](https://media.tenor.com/MqTayCB_FyIAAAAM/exactly-right.gif)
+ 
